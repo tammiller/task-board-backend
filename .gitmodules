@@ -1,0 +1,3 @@
+[submodule "src/main/resources/commons"]
+	path = src/main/resources/commons
+	url = git@github.com:tammiller/task-board-commons.git
